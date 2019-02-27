@@ -6,3 +6,5 @@ Testing1
 Testing2
 
 Training
+
+use trainig data to test 
