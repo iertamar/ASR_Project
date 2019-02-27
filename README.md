@@ -9,3 +9,4 @@ Training
 
 use trainig data to test 
 and after testing produce the correct result
+there are more number of commits going on . be careful !
