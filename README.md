@@ -8,3 +8,4 @@ Testing2
 Training
 
 use trainig data to test 
+and after testing produce the correct result
